@@ -45,13 +45,13 @@ build-mode = "both"
 arch = "arm64-v8a"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+enabled = false
 
 [Instagram]
 patches-source = "crimera/piko"
 rv-brand = "piko"
-arch = "both"
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
-uptodown-dlurl = "https://instagram.en.uptodown.com/android"
+arch = "arm64-v8a"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
 
 [MoonReader]
 patches-source = "binarymend/morphe-patches"
@@ -72,6 +72,5 @@ enabled = false
 [Threads]
 patches-source = "RookieEnough/De-ReVanced"
 rv-brand = "de-revanced"
-arch = "both"
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/threads-an-instagram-app"
-uptodown-dlurl = "https://threads.en.uptodown.com/android"
+arch = "arm64-v8a"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/threads-an-instagram-app"
