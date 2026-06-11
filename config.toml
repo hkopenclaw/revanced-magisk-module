@@ -41,17 +41,17 @@ enabled = false
 [GooglePhotos]
 patches-source = "RookieEnough/De-ReVanced"
 rv-brand = "de-revanced"
-build-mode = "both"
+build-mode = "module"
 arch = "arm64-v8a"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-enabled = false
 
 [Instagram]
 patches-source = "crimera/piko"
 rv-brand = "piko"
 arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
+enabled = false
 
 [MoonReader]
 patches-source = "binarymend/morphe-patches"
@@ -74,3 +74,4 @@ patches-source = "RookieEnough/De-ReVanced"
 rv-brand = "de-revanced"
 arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/threads-an-instagram-app"
+enabled = false
