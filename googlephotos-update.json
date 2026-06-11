@@ -1,6 +1,6 @@
 {
   "version": "v7.80.0.929302933 (patches 1.0.4.mpp)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/hkopenclaw/morphe-magisk-module/releases/download/2/googlephotos-de-revanced-module-v7.80.0.929302933-arm64-v8a.zip",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/hkopenclaw/morphe-magisk-module/releases/download/3/googlephotos-de-revanced-module-v7.80.0.929302933-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/hkopenclaw/morphe-magisk-module/update/build.md"
 }
