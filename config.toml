@@ -36,7 +36,7 @@ rv-brand = "hoo-dles"
 arch = "arm64-v8a"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/fotmob-as/fotmob-live-soccer-scores"
 uptodown-dlurl = "https://soccer-scores.en.uptodown.com/android"
-version = "233.16900.20260611"
+enabled = false
 
 [GooglePhotos]
 patches-source = "RookieEnough/De-ReVanced"
@@ -60,7 +60,6 @@ rv-brand = "binarymend"
 arch = "arm64-v8a"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/moon/moon-reader"
 uptodown-dlurl = "https://moon-reader.en.uptodown.com/android"
-enabled = false
 
 [SolidExplorer]
 patches-source = "hoo-dles/morphe-patches"
