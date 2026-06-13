@@ -36,7 +36,7 @@ rv-brand = "hoo-dles"
 arch = "arm64-v8a"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/fotmob-as/fotmob-live-soccer-scores"
 uptodown-dlurl = "https://soccer-scores.en.uptodown.com/android"
-enabled = false
+version = "233.16900.20260611"
 
 [GooglePhotos]
 patches-source = "RookieEnough/De-ReVanced"
@@ -45,6 +45,7 @@ build-mode = "module"
 arch = "arm64-v8a"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+enabled = false
 
 [Instagram]
 patches-source = "crimera/piko"
